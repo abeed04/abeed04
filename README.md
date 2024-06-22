@@ -40,12 +40,10 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,cpp,python,mysql,github,git,flask,aws,azure,discord"/>
     <img src="https://skillicons.dev/icons?i=opencv,matlab,pycharm,tensorflow,vscode,windows,cmake,sklearn,pytorch" /><br>
-</div>
+
 <br/>
-<hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/>
@@ -62,3 +60,6 @@
     <b>hi, I'll be happy to meet you more!</b> 🤝</em
   >
 </footer>
+
+<hr/>
+  <h2>🐍 My Contributions 🐍</h2>
