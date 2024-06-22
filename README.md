@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abeed</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<div align ="center">
-<img src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" width="420" height="320" /><br>
-</div>
+
+<!-- GIF -->
+<img align="right" height="320" width="415" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" />
 
 - 🌱 I’m currently learning **Machine Learning, Generative AI.**
 
