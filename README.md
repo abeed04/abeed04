@@ -62,4 +62,4 @@
 </footer>
 
 <hr/>
-  <h2>🐍 My Contributions 🐍</h2>
+<h3>🐍 My Contributions 🐍</h3>
