@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋++I'm+Abeed;" />
 </h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<br/>
-<!-- GIF -->
+
 <img align="right" height="270" width="352" src="https://digitalogy.co/blog/wp-content/uploads/2019/06/Hiring-Data-Scientists.gif" />
+
 
 - 👨‍💻 I code in Python and i have experience in engaging with data analysis, machine learning and deep learning, data visualization, and descision making based on data.
 
